@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T16:28:17.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="teE2WOAkUpF8V0vz2g3l" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-28T16:40:52.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="y6eAHzVjq9JrAZH8_7m7" version="14.9.2" type="github">
   <diagram id="8tbKy97IGsQ9ciRFXvJA" name="Page-1">
     <mxGraphModel dx="868" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,8 +75,8 @@
         <mxCell id="9jP5uwK8EiIwHMqEGJkS-42" value="&lt;b&gt;SINTOMAS&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="295.75" y="670" width="236.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-44" value="" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
-          <mxGeometry x="270" y="760" width="290" height="240" as="geometry" />
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-44" value="&lt;ul&gt;&lt;li&gt;&amp;nbsp;vasodilatación, la piel permanece tibia y seca&lt;/li&gt;&lt;li&gt;puede no sude debido por falta de estimulación simpática de las glándulas sudoríparas.&lt;br&gt;&lt;/li&gt;&lt;li&gt;el color de la piel puede cambiar&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;la sangre&lt;/li&gt;&lt;li&gt;sangre acumula en las partes inferiores del cuerpo (por&amp;nbsp; gravedad)&lt;/li&gt;&lt;li&gt;resulta en piel enrojecida o de color rosado superiores palidecen o&amp;nbsp; cianóticas&lt;/li&gt;&lt;li&gt;hipotermia a la larga&lt;/li&gt;&lt;li&gt;bradicardia o taquicardia&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="270" y="760" width="290" height="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
