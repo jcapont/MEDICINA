@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T15:37:11.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" version="14.9.2" etag="g_cZMPw8ewWn26vstNOt" type="github"><diagram id="8tbKy97IGsQ9ciRFXvJA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-28T15:38:25.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="d6-yDekTZGzD76GhltxM" version="14.9.2" type="github">
+  <diagram id="8tbKy97IGsQ9ciRFXvJA" name="Page-1">
+    <mxGraphModel dx="868" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-2" value="CHOQUE DISTRIBUTIVO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="10" width="6" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
