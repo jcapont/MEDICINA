@@ -1,82 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-07-28T16:40:52.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="y6eAHzVjq9JrAZH8_7m7" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-29T14:23:32.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" etag="hKxN9psm945T2zKGbckw" version="14.9.3" type="github">
   <diagram id="8tbKy97IGsQ9ciRFXvJA" name="Page-1">
     <mxGraphModel dx="868" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-3" target="9jP5uwK8EiIwHMqEGJkS-5">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-3" target="9jP5uwK8EiIwHMqEGJkS-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-3" target="9jP5uwK8EiIwHMqEGJkS-7">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-3" target="9jP5uwK8EiIwHMqEGJkS-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-3" target="9jP5uwK8EiIwHMqEGJkS-15">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-3" target="9jP5uwK8EiIwHMqEGJkS-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-3" value="&lt;b&gt;CHOQUE DISTRIBUTIVO&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-3" value="&lt;b&gt;CHOQUE DISTRIBUTIVO&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="349" y="90" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-5" value="&lt;b&gt;&amp;nbsp;VASODILATACION&lt;br&gt;&lt;i&gt;&lt;u&gt;&lt;font color=&quot;#ea6b66&quot;&gt;CHOQUE NEUROGENICO&lt;/font&gt;&lt;/u&gt;&lt;/i&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-5" value="&lt;b&gt;&amp;nbsp;VASODILATACION&lt;br&gt;&lt;i&gt;&lt;u&gt;&lt;font color=&quot;#ea6b66&quot;&gt;CHOQUE NEUROGENICO&lt;/font&gt;&lt;/u&gt;&lt;/i&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="570" y="90" width="159" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-7" value="VASODILATACION + AUMENTO PERMEABILIDAD&lt;br&gt;&lt;i&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;&lt;u&gt;ANAFILAXIA O SEPSIS&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-7" value="VASODILATACION + AUMENTO PERMEABILIDAD&lt;br&gt;&lt;i&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;&lt;u&gt;ANAFILAXIA O SEPSIS&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="90" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9jP5uwK8EiIwHMqEGJkS-3">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="9jP5uwK8EiIwHMqEGJkS-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-12" value="&lt;b&gt;EXPOSICION O INGESTA TOXINAS DROGAS&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-12" value="&lt;b&gt;EXPOSICION O INGESTA TOXINAS DROGAS&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="349" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-15" value="&lt;b&gt;ESTIMILAN:&lt;br&gt;PARASINPATICO&lt;br&gt;BLOQUEAN SINPÁTICO&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-15" value="&lt;b&gt;ESTIMILAN:&lt;br&gt;PARASINPATICO&lt;br&gt;BLOQUEAN SINPÁTICO&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="309" y="200" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-18" target="9jP5uwK8EiIwHMqEGJkS-42">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-18" target="9jP5uwK8EiIwHMqEGJkS-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-18" value="&lt;b&gt;CHOQUE DISTRIBUTIVO&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-18" value="&lt;b&gt;CHOQUE DISTRIBUTIVO&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="295.75" y="580" width="236.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-19" target="9jP5uwK8EiIwHMqEGJkS-23">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-19" target="9jP5uwK8EiIwHMqEGJkS-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-19" value="GENERAL&lt;br&gt;TODOS LOS VASOS SE DILATAN" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-19" value="GENERAL&lt;br&gt;TODOS LOS VASOS SE DILATAN" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="119.75" y="420" width="176" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-23" target="9jP5uwK8EiIwHMqEGJkS-18">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-23" target="9jP5uwK8EiIwHMqEGJkS-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-23" value="HIPOVOLEMIA RELATIVA Y &lt;br&gt;GASTO CARDIACO&amp;nbsp;&lt;br&gt;CAE" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-23" value="HIPOVOLEMIA RELATIVA Y &lt;br&gt;GASTO CARDIACO&amp;nbsp;&lt;br&gt;CAE" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="318.5" y="440" width="191" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-26" target="9jP5uwK8EiIwHMqEGJkS-23">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-26" target="9jP5uwK8EiIwHMqEGJkS-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-26" value="ACTIVIDAD SIMPATIVA DISMINUYE:&lt;br&gt;BRADICARDIA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-26" value="ACTIVIDAD SIMPATIVA DISMINUYE:&lt;br&gt;BRADICARDIA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="532.25" y="450" width="191" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-38" target="9jP5uwK8EiIwHMqEGJkS-23">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-38" target="9jP5uwK8EiIwHMqEGJkS-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-38" target="9jP5uwK8EiIwHMqEGJkS-40">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-38" target="9jP5uwK8EiIwHMqEGJkS-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-38" value="SOBREDOSIS:&lt;br&gt;FARMACOS&lt;br&gt;TOXICOS&lt;br&gt;DORGAS&lt;br&gt;PRODUCE BLOQUEO DE:&lt;br&gt;ACETILCOLINA&lt;br&gt;ADRENALINA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-38" value="SOBREDOSIS:&lt;br&gt;FARMACOS&lt;br&gt;TOXICOS&lt;br&gt;DORGAS&lt;br&gt;PRODUCE BLOQUEO DE:&lt;br&gt;ACETILCOLINA&lt;br&gt;ADRENALINA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="304" y="300" width="220" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-40" value="DESHIDRATACION&lt;br&gt;HIPOXIA/HIPOXEMIA GRAVE&lt;br&gt;PERDIDA DEL TONO VASCULAR&lt;br&gt;PUEDE LLEVR CHOQUE DISTRIBUTIVO" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-40" value="DESHIDRATACION&lt;br&gt;HIPOXIA/HIPOXEMIA GRAVE&lt;br&gt;PERDIDA DEL TONO VASCULAR&lt;br&gt;PUEDE LLEVR CHOQUE DISTRIBUTIVO" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="290" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9jP5uwK8EiIwHMqEGJkS-42" target="9jP5uwK8EiIwHMqEGJkS-44">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9jP5uwK8EiIwHMqEGJkS-42" target="9jP5uwK8EiIwHMqEGJkS-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-42" value="&lt;b&gt;SINTOMAS&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-42" value="&lt;b&gt;SINTOMAS&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="295.75" y="670" width="236.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9jP5uwK8EiIwHMqEGJkS-44" value="&lt;ul&gt;&lt;li&gt;&amp;nbsp;vasodilatación, la piel permanece tibia y seca&lt;/li&gt;&lt;li&gt;puede no sude debido por falta de estimulación simpática de las glándulas sudoríparas.&lt;br&gt;&lt;/li&gt;&lt;li&gt;el color de la piel puede cambiar&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;/li&gt;&lt;li&gt;la sangre&lt;/li&gt;&lt;li&gt;sangre acumula en las partes inferiores del cuerpo (por&amp;nbsp; gravedad)&lt;/li&gt;&lt;li&gt;resulta en piel enrojecida o de color rosado superiores palidecen o&amp;nbsp; cianóticas&lt;/li&gt;&lt;li&gt;hipotermia a la larga&lt;/li&gt;&lt;li&gt;bradicardia o taquicardia&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" vertex="1" parent="1">
-          <mxGeometry x="270" y="760" width="290" height="270" as="geometry" />
+        <mxCell id="9jP5uwK8EiIwHMqEGJkS-44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;vasodilatación, la piel permanece tibia y seca no sude&amp;nbsp;debido por falta&amp;nbsp;&amp;nbsp;de estimulación&amp;nbsp;&amp;nbsp;simpática&amp;nbsp;&amp;nbsp;de las&amp;nbsp;&amp;nbsp;puede&amp;nbsp;&amp;nbsp;glándulas sudoríparas.&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: left&quot;&gt;el color de la piel puede cambiar la sangre se acumula&amp;nbsp;&amp;nbsp;en las partes inferiores del cuerpo (por&amp;nbsp; gravedad) resulta piel enrojecida&amp;nbsp;&amp;nbsp;o color rosado superiores palidecen o&amp;nbsp; cianótica&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;hipotermia a la larga&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;bradicardia o taquicardia&lt;/li&gt;&lt;/ul&gt;" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;fontColor=#333333;strokeColor=#666666;fillColor=#f5f5f5;" parent="1" vertex="1">
+          <mxGeometry x="254" y="760" width="320" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hFNgr4Zxupbru4JH5FeO-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
