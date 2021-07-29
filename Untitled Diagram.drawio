@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-07-29T14:44:21.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" version="14.9.3" etag="5vMJop2At_AEdsDCc0Ys" type="github"><diagram id="zSH6PqrhkxZ59juPt8eV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-29T16:16:23.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.115 Safari/537.36" etag="hx9uaumJiSogz_sDpyhM" version="14.9.3" type="github">
+  <diagram id="zSH6PqrhkxZ59juPt8eV" name="Page-1">
+    <mxGraphModel dx="1695" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kWgAWrhs7YiOHanZE00N-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-1" target="kWgAWrhs7YiOHanZE00N-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-1" value="&lt;h1&gt;CHOQUE DISTRIBUTIVO.&lt;/h1&gt;&lt;p&gt;TRATAMIENTO&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-60" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-2" target="kWgAWrhs7YiOHanZE00N-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-2" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;b&gt;&amp;nbsp;choque neurogénico&lt;/b&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;(una forma de choque distributivo)&lt;/span&gt;&lt;span&gt;&amp;nbsp;falta de información simpática entrante al miocardio&amp;nbsp;&lt;/span&gt;&lt;span&gt;interfi&lt;/span&gt;&lt;span&gt;ere con la estimulación de la respuesta taquicárdica a la&lt;/span&gt;&lt;span&gt;hipoperfusión en un intento por aumentar el gasto&lt;/span&gt;&lt;span&gt;cardiaco.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="90" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-6" target="kWgAWrhs7YiOHanZE00N-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-6" value="&lt;div&gt;Puede notarse una frecuencia&lt;/div&gt;&lt;div&gt;“normal” o bradicárdica, incluso en presencia de hipotensión profunda&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-8" target="kWgAWrhs7YiOHanZE00N-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-8" target="kWgAWrhs7YiOHanZE00N-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-8" target="kWgAWrhs7YiOHanZE00N-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-8" value="&lt;div&gt;&amp;nbsp;&lt;b&gt;ATROPINA&amp;nbsp;&lt;/b&gt;puede ayudar a “revertir” la&amp;nbsp;&lt;span&gt;bradicardia al eliminar por medios farmacológicos el control parasimpático (estimulación&amp;nbsp;&lt;/span&gt;&lt;span&gt;vagal) del&lt;/span&gt;&lt;/div&gt;&lt;div&gt;corazón y permitir que&amp;nbsp;&lt;span&gt;ocurra una respuesta&lt;/span&gt;&lt;/div&gt;&lt;div&gt;cronotrópica.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="380" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-10" value="&lt;div&gt;ACCIÓN&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&amp;nbsp;inhibidor competitivo de los receptores&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;colinérgicos posganglionares autonómicos&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;en tracto&amp;nbsp;&lt;span&gt;gastrointestinal, músculo liso&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;pulmonar, glándulas exocrinas,&amp;nbsp;&lt;span&gt;corazón y&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;ojos&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="385" width="275" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-13" value="EFECTOS:&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;disminución secreción nasales bucales faríngeas y bronquial&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;disminución secreción glándulas sudoríparas&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;midriasis&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;ciclopejia,&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;taquicardia,&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp;disminución de secreción ácida gástrica y motilidad&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;gastrointestinal&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;broncodilatación&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="370" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-15" target="kWgAWrhs7YiOHanZE00N-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-15" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ADMIISTRACIÓN: EV Y SC EFECTO INMEDIATO&lt;br&gt;INTRAMUSCULAR LATANCIA 30 MINUTOS&lt;br&gt;INHALADA&amp;nbsp; 1 A 4 HRS.&lt;br&gt;ENDOTRAQUEAL Y ORSL 1 HR&lt;br&gt;METABOLIZA HIGADO VIDA MEDIA 3-4 HRS&lt;br&gt;&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWgAWrhs7YiOHanZE00N-17" target="kWgAWrhs7YiOHanZE00N-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-17" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot; color=&quot;#33ff33&quot;&gt;INDICACIONES:&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;Bradicardia, bradiarritmias y asistolia&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Broncoespasmo&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Inducción de midriasis&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&amp;nbsp;Reversión del bloqueo neuromuscular por neostigmina, fisostigmina y piridostigmina&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Antídoto para la intoxicación por compuestos organofosfo- rados (COFA)&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="640" width="350" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kWgAWrhs7YiOHanZE00N-19" value="POSOLOGIA Y ADMINISTRACION. amp. 1 ml/1mg.&lt;br&gt;&lt;div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;i&gt;&lt;b&gt;Bradicardia o bradiarritmias:&lt;/b&gt;&lt;/i&gt;&amp;nbsp;0,5-1 mg EV en bolo, repetir c/5 min.&amp;nbsp; máximo 3 mg&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;i&gt;&lt;b&gt;Asistolia:&lt;/b&gt;&lt;/i&gt; 1 mg. repetir 3-5 mint. max. 3 mg.&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;i&gt;Tratamiento de las crisis colinérgicas (órganos fosforados) :&amp;nbsp;&lt;/i&gt;&lt;/b&gt;&lt;span&gt;2 mg IM o EV repetirse cada&lt;/span&gt;20-30 min hasta que aparezcan síntomas de atropinización (midriasis, taquicardia, etc.). Grave 6 mg IM o IV / hora&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;b style=&quot;font-style: italic&quot;&gt;Reversión del bloqueo neuromuscular:&amp;nbsp;&amp;nbsp;&lt;/b&gt;combinación con inhibidores de la colinesterasa. 0,6-1,2 mg EV por cada 0,5-2,5 mg de neostigmina ó 10-20 mg de piridostigmina&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="830" width="370" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
